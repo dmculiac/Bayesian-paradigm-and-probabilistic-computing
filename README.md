@@ -1,5 +1,6 @@
 # Thomas Bayes
-![Thomas Bayes](https://www.christiancalculus.com/Bayes.jpg)
+###![Thomas Bayes](https://www.christiancalculus.com/Bayes.jpg)
+<img src: "https://www.christiancalculus.com/Bayes.jpg" alt = "Thomas Bayes">
                                         
                                         and probabilistic programming
 ***
