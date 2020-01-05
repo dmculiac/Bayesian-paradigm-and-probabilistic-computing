@@ -2,6 +2,8 @@
                                         
                                         and probabilistic programming
 ***
+![Image][1]
+[1]: https://www.christiancalculus.com/Bayes.jpg
 
 Questioning what appeared to be evidence or tests about evidence was entrenched in Thomas Bayes belief system. His beliefs were not absolute and evidence was summoned once again to test the strength of those beliefs. I have to admit, this is a head scratching exercise. While it makes sense on a higher level, when we get into the nuts and bolts, it completely changes how we look at things.
 
