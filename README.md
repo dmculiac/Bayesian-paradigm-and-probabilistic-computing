@@ -1,7 +1,8 @@
 # Thomas Bayes
 <p align = "center">
   <img src= "https://www.christiancalculus.com/Bayes.jpg" alt = "Thomas Bayes">
-</p>                                        
+</p>    
+***
                                         and probabilistic programming
 ***
 
