@@ -17,3 +17,4 @@ Bayes rule computes the actual probability of an event given some information ab
 All said and done, this joke has a lot more meat than meets the eye:
 
 *A Bayesian is one who vaguely expecting a horse and catching a glimpse of a donkey, they strongly believe they've seen a mule*
+
