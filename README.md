@@ -6,7 +6,7 @@
 
 ***
                                         
-Questioning what appeared to be evidence or tests about evidence was entrenched in Thomas Bayes belief system. His beliefs were not absolute and evidence was summoned to test the strength of those beliefs. I have to admit, this is a head scratching exercise. While it makes sense on a higher level, when we get into the nuts and bolts, it completely changes how we look at things.
+Questioning what appeared to be evidence or tests about evidence was entrenched in Thomas Bayes' belief system. His beliefs were by no means absolute - evidence was summoned to test the strength of those beliefs itself. This is a bold message, from the very top, as a principle, to the bottom, the very implementation of it. The premise is revolutionary and it challenges how we look at things. It questions faith itself. And faith in that time was more unassailable as a doctrine than any doctrine today.
 
 
 
@@ -14,7 +14,7 @@ Bayes rule computes the actual probability of an event given some information ab
 
 
 
-All said and done, this joke has a lot more meat than meets the eye:
+All said and done, this joke has a lot more meat for the insider than for the outsider:
 
 *A Bayesian is one who vaguely expecting a horse and catching a glimpse of a donkey, they strongly believe they've seen a mule*
 
